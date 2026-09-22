@@ -1,31 +1,35 @@
 # Vitor Silvestre
+**Engenheiro de Dados** — Olímpia, SP · Remoto
 
-Engenheiro de Dados focado em pipelines confiáveis: Airflow, dbt, SQL e Python para ETL/ELT, com atenção a data quality e, quando faz sentido, IA aplicada. Baseado em Olímpia, SP, atuando remoto.
+Pipelines confiáveis em Airflow, dbt, SQL e Python para ETL/ELT, com foco em qualidade de dados e, quando faz sentido, IA aplicada.
 
-Atualmente na R2DA Tecnologia, onde migrei pipelines de Bash para Python/Airflow e reduzi o tempo de execução de 8h para 4h (-50%), com DAGs paralelas para 8 regiões e modelagem OLAP em ClickHouse.
+Atualmente na R2DA Tecnologia, onde migrei pipelines de Bash para Python/Airflow, reduzindo o tempo de execução de 8h para 4h (-50%) com DAGs paralelas para 8 regiões e modelagem OLAP em ClickHouse.
 
-Disponível para novas oportunidades como Engenheiro de Dados.
+**Disponível para novas oportunidades como Engenheiro de Dados.**
 
-## Stack
+---
 
+### Stack
 `Python` `SQL` `Apache Airflow` `dbt` `ClickHouse` `Apache Kafka` `PostgreSQL` `PySpark` `Delta Lake` `Databricks` `Docker` `GitHub Actions` `Power BI`
 
-## Projetos em destaque
+### Projetos em destaque
 
 **[GovTrack BR](https://github.com/vitorsilvestre29/govtrack-br)**
-Dashboard de dados públicos da Câmara dos Deputados (513 deputados e emendas parlamentares). Pipeline com Airflow, Kafka e PostgreSQL, modelagem em dbt, visualização em Superset, containerizado com Docker e CI/CD via GitHub Actions.
+Dashboard de dados públicos da Câmara dos Deputados. Arquitetura Medallion (Bronze/Silver/Gold), Airflow, Kafka, PostgreSQL, dbt, Superset, Docker, CI/CD com GitHub Actions.
 
 **[Indicadores Econômicos BCB](https://github.com/vitorsilvestre29/monitor-economico-brasil-bcb)**
-Pipeline analítico de Selic, IPCA e dólar com dados do Banco Central, rodando no Databricks Free Edition. Arquitetura Bronze/Silver/Gold com PySpark e Delta Lake, orquestrada via Databricks Workflows com execução diária agendada.
+Pipeline de Selic, IPCA e dólar no Azure Databricks. Medallion com PySpark/Delta Lake, orquestração diária via Databricks Workflows, dashboard em Lakeview.
 
 **[Juros Abusivos IA](https://github.com/vitorsilvestre29/Juros-abusivos-IA)**
-Detecção de juros abusivos em contratos usando Claude API e OCR, comparando com séries do SGS/Bacen. Fluxo de pagamento integrado via PIX e Mercado Pago.
+Detecção de juros abusivos com Claude API, OCR e dados do Bacen. Pagamento via PIX/Mercado Pago.
 
-**Peticiona+**
-SaaS jurídico em desenvolvimento (link em breve).
+**Peticiona+** — SaaS jurídico (link em breve)
 
-## Formação e certificações
+Portfólio completo: [vitorsilvestre29.github.io](https://vitorsilvestre29.github.io)
 
+---
+
+### Formação e certificações
 - Pós-graduação em Engenharia de Dados e IA — Anhanguera (início ago/2026)
 - Bacharelado em Sistemas de Informação — UNIFEB (2022–2025)
 - Azure Databricks Data Engineer Associate (DP-750) — prova agendada para out/2026
@@ -33,7 +37,7 @@ SaaS jurídico em desenvolvimento (link em breve).
 - AI Skills Fest 2026 — Microsoft
 - Power BI e SQL Avançado
 
-## Contato
+### Contato
+[E-mail](mailto:vitorcesarsilvestre2017@gmail.com) · [LinkedIn](https://linkedin.com/in/vitor-silvestre21) · [Portfólio](https://vitorsilvestre29.github.io)
 
-- E-mail: vitorcesarsilvestre2017@gmail.com
-- LinkedIn: [linkedin.com/in/vitor-silvestre21](https://linkedin.com/in/vitor-silvestre21)
+<img src="https://github-readme-stats.vercel.app/api?username=vitorsilvestre29&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" width="380" />
