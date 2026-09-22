@@ -1,5 +1,5 @@
 # Vitor Silvestre
-**Engenheiro de Dados** — Olímpia, SP · Remoto
+**Engenheiro de Dados** — Barretos, SP · Remoto
 
 Pipelines confiáveis em Airflow, dbt, SQL e Python para ETL/ELT, com foco em qualidade de dados e, quando faz sentido, IA aplicada.
 
