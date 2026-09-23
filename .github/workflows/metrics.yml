@@ -26,6 +26,7 @@ jobs:
           output_action: commit
           committer_branch: output
           committer_message: "chore: update metrics [Skip GitHub Action]"
+          optimize: xml
           extras_css: |
             svg { background-color: #0d1117 !important; }
             svg { color: #c9d1d9 !important; }
