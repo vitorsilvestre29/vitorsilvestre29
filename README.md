@@ -1,9 +1,9 @@
 # Vitor Silvestre
-**Engenheiro de Dados** — Barretos, SP · Remoto
+**Engenheiro de Dados** — Barretos, SP · Aberto a oportunidades remotas
 
-Pipelines confiáveis em Airflow, dbt, SQL e Python para ETL/ELT, com foco em qualidade de dados e, quando faz sentido, IA aplicada.
+Pipelines ETL/ELT em Airflow, dbt, SQL e Python, com foco em qualidade de dados e arquitetura Medallion (Data Lakehouse).
 
-Atualmente na R2DA Tecnologia, onde migrei pipelines de Bash para Python/Airflow, reduzindo o tempo de execução de 8h para 4h (-50%) com DAGs paralelas para 8 regiões e modelagem OLAP em ClickHouse.
+Na R2DA Tecnologia (jun/2025–mai/2026), migrei pipelines de Bash para Python/Airflow, reduzindo o tempo de execução de 8h para 4h (-50%), com DAGs paralelas para 8 regiões e modelagem OLAP em ClickHouse. Hoje mantenho dois projetos pessoais de Data Lakehouse e dois produtos em produção com IA aplicada, enquanto curso pós-graduação em Engenharia de Dados e IA.
 
 **Disponível para novas oportunidades como Engenheiro de Dados.**
 
@@ -12,18 +12,21 @@ Atualmente na R2DA Tecnologia, onde migrei pipelines de Bash para Python/Airflow
 ### Stack
 `Python` `SQL` `Apache Airflow` `dbt` `ClickHouse` `Apache Kafka` `PostgreSQL` `PySpark` `Delta Lake` `Databricks` `Docker` `GitHub Actions` `Power BI`
 
-### Projetos em destaque
+### Projetos pessoais — Data Lakehouse
 
 **[GovTrack BR](https://github.com/vitorsilvestre29/govtrack-br)**
-Dashboard de dados públicos da Câmara dos Deputados. Arquitetura Medallion (Bronze/Silver/Gold), Airflow, Kafka, PostgreSQL, dbt, Superset, Docker, CI/CD com GitHub Actions.
+Pipeline de dados públicos da Câmara dos Deputados. Arquitetura Medallion (Bronze/Silver/Gold), Airflow, Kafka, PostgreSQL, dbt, Superset, Docker, CI/CD com GitHub Actions.
 
 **[Indicadores Econômicos BCB](https://github.com/vitorsilvestre29/monitor-economico-brasil-bcb)**
-Pipeline de Selic, IPCA e dólar no Azure Databricks. Medallion com PySpark/Delta Lake, orquestração diária via Databricks Workflows, dashboard em Lakeview.
+Pipeline de Selic, IPCA e dólar no Azure Databricks. Medallion com PySpark/Delta Lake, orquestração diária via Databricks Workflows.
 
-**[Juros Abusivos IA](https://github.com/vitorsilvestre29/Juros-abusivos-IA)**
-Detecção de juros abusivos com Claude API, OCR e dados do Bacen. Pagamento via PIX/Mercado Pago.
+### Produtos em produção — IA aplicada
 
-**Peticiona+** — SaaS jurídico (link em breve)
+**[Peticiona+](https://peticiona.cloud/)**
+SaaS jurídico para geração assistida de documentos, com 57 agentes especializados cobrindo 10 áreas do Direito. Next.js, React, TypeScript.
+
+**[Laudo Juros](https://www.laudojuros.com.br/)** · [repositório](https://github.com/vitorsilvestre29/Juros-abusivos-IA)
+Extração de dados de contratos via OCR, comparação com séries oficiais do Banco Central (SGS) e geração de laudos técnicos sobre juros abusivos. Python, FastAPI, Claude API, PostgreSQL, MercadoPago.
 
 Portfólio completo: [vitorsilvestre29.github.io](https://vitorsilvestre29.github.io)
 
