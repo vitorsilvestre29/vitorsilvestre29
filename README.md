@@ -53,8 +53,6 @@ Portfólio completo: [vitorsilvestre29.github.io](https://vitorsilvestre29.githu
 
 ---
 
-<img src="https://raw.githubusercontent.com/vitorsilvestre29/vitorsilvestre29/output/metrics.svg" alt="Calendário isométrico de contribuições" width="100%" />
-
 <table>
 <tr>
 <td valign="top" width="55%">
