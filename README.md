@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1500&color=C1490C&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados;Airflow+%C2%B7+dbt+%C2%B7+Python+%C2%B7+SQL;Data+Lakehouse+%C2%B7+ClickHouse+%C2%B7+Databricks;Aberto+a+oportunidades" alt="Typing SVG" />
 
 # Vitor Silvestre
-**Engenheiro de Dados** — Barretos, SP · Aberto a oportunidades remotas
+**Engenheiro de Dados** — Barretos, SP · Aberto a oportunidades
 
 Pipelines ETL/ELT em Airflow, dbt, SQL e Python, com foco em qualidade de dados e arquitetura Medallion (Data Lakehouse). Migrei pipelines de Bash para Python/Airflow reduzindo o tempo de execução em 50%, e hoje mantenho dois projetos pessoais de Data Lakehouse e dois produtos em produção com IA aplicada.
 
