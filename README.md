@@ -3,9 +3,7 @@
 # Vitor Silvestre
 **Engenheiro de Dados** — Barretos, SP · Aberto a oportunidades remotas
 
-Pipelines ETL/ELT em Airflow, dbt, SQL e Python, com foco em qualidade de dados e arquitetura Medallion (Data Lakehouse).
-
-Na R2DA Tecnologia (jun/2025–mai/2026), migrei pipelines de Bash para Python/Airflow, reduzindo o tempo de execução de 8h para 4h (-50%), com DAGs paralelas para 8 regiões e modelagem OLAP em ClickHouse. Hoje mantenho dois projetos pessoais de Data Lakehouse e dois produtos em produção com IA aplicada, enquanto curso pós-graduação em Engenharia de Dados e IA.
+Pipelines ETL/ELT em Airflow, dbt, SQL e Python, com foco em qualidade de dados e arquitetura Medallion (Data Lakehouse). Migrei pipelines de Bash para Python/Airflow reduzindo o tempo de execução em 50%, e hoje mantenho dois projetos pessoais de Data Lakehouse e dois produtos em produção com IA aplicada.
 
 **Disponível para novas oportunidades como Engenheiro de Dados.**
 
@@ -13,6 +11,14 @@ Na R2DA Tecnologia (jun/2025–mai/2026), migrei pipelines de Bash para Python/A
 
 ### Stack
 `Python` `SQL` `Apache Airflow` `dbt` `ClickHouse` `Apache Kafka` `PostgreSQL` `PySpark` `Delta Lake` `Databricks` `Docker` `GitHub Actions` `Power BI`
+
+### Experiência
+
+**Analista de Sistemas · LCR Promoção de Vendas** — dez/2025–atual
+Desenvolvimento de tema Tray Commerce (Twig, CSS, JS, Swiper.js), SEO técnico e dados estruturados (JSON-LD), automação via PowerShell contra a API da Tray e processamento de imagem com Python/Pillow.
+
+**Engenheiro de Dados · R2DA Tecnologia** — jun/2025–mai/2026
+Migração de pipelines de Bash para Python/Airflow, reduzindo o tempo de execução de 8h para 4h (-50%), com DAGs paralelas para 8 regiões. Modelagem OLAP em ClickHouse (ReplacingMergeTree, Materialized Views).
 
 ### Projetos pessoais — Data Lakehouse
 
@@ -45,11 +51,26 @@ Portfólio completo: [vitorsilvestre29.github.io](https://vitorsilvestre29.githu
 ### Contato
 [E-mail](mailto:vitorcesarsilvestre2017@gmail.com) · [LinkedIn](https://linkedin.com/in/vitor-silvestre21) · [Portfólio](https://vitorsilvestre29.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitorsilvestre29&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" width="380" />
+---
+
+<table>
+<tr>
+<td valign="top" width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=vitorsilvestre29&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" width="100%" />
+</td>
+<td valign="top" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsilvestre29&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorsilvestre29&hide_border=true&theme=default" alt="GitHub streak" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=vitorsilvestre29&theme=flat&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=-1&title=Commits,Repositories,PullRequest,Followers" alt="GitHub trophies" width="100%" />
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorsilvestre29/vitorsilvestre29/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation do grid de contribuições" src="https://raw.githubusercontent.com/vitorsilvestre29/vitorsilvestre29/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation do grid de contribuições" src="https://raw.githubusercontent.com/vitorsilvestre29/vitorsilvestre29/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
