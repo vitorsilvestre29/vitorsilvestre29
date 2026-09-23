@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1500&color=C1490C&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados;Airflow+%C2%B7+dbt+%C2%B7+Python+%C2%B7+SQL;Data+Lakehouse+%C2%B7+ClickHouse+%C2%B7+Databricks;Aberto+a+oportunidades" alt="Typing SVG" />
+
 # Vitor Silvestre
 **Engenheiro de Dados** — Barretos, SP · Aberto a oportunidades remotas
 
@@ -44,3 +46,10 @@ Portfólio completo: [vitorsilvestre29.github.io](https://vitorsilvestre29.githu
 [E-mail](mailto:vitorcesarsilvestre2017@gmail.com) · [LinkedIn](https://linkedin.com/in/vitor-silvestre21) · [Portfólio](https://vitorsilvestre29.github.io)
 
 <img src="https://github-readme-stats.vercel.app/api?username=vitorsilvestre29&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" width="380" />
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorsilvestre29/vitorsilvestre29/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation do grid de contribuições" src="https://raw.githubusercontent.com/vitorsilvestre29/vitorsilvestre29/output/github-contribution-grid-snake.svg" />
+</picture>
