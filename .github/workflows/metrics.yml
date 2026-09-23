@@ -32,10 +32,8 @@ jobs:
             svg { color: #c9d1d9 !important; }
             h2, h3 { color: #8b949e !important; }
             h2 svg, h3 svg, .field svg { fill: #8b949e !important; }
-            :root {
-              --color-calendar-graph-day-bg: #161b22 !important;
-              --color-calendar-graph-day-L1-bg: #333a42 !important;
-              --color-calendar-graph-day-L2-bg: #4d5560 !important;
-              --color-calendar-graph-day-L3-bg: #6e7681 !important;
-              --color-calendar-graph-day-L4-bg: #c9d1d9 !important;
-            }
+            [fill="#ebedf0"] { fill: #161b22 !important; }
+            [fill="#9be9a8"] { fill: #333a42 !important; }
+            [fill="#40c463"] { fill: #4d5560 !important; }
+            [fill="#30a14e"] { fill: #6e7681 !important; }
+            [fill="#216e39"] { fill: #c9d1d9 !important; }
